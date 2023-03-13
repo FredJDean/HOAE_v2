@@ -11,7 +11,7 @@ Recent versions of the following packages for Python 3 are required:
 ###Link
 The used datasets are available at:
 * ACM https://github.com/AndyJZhao/NSHE
-* IMDB https://github.com/AndyJZhao/NSHE
+* IMDB https://github.com/cynricfu/MAGNN
 * YELP https://github.com/AndyJZhao/HGSL/tree/main/data
 
 ## Run this program
